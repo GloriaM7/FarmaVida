@@ -6,7 +6,7 @@ O trabalho reúne os requisitos, a proposta de interface, o plano de gestão de 
 
 ## Documentos da entrega
 
-Os materiais das seis etapas serão vinculados nesta tabela quando os arquivos originais forem adicionados ao repositório.
+O [documento do Exercício 12](docs/Exercicio12-FarmaVida.docx) reúne as seis etapas descritas abaixo. A coluna **Pasta prevista** indica onde serão organizados os materiais avulsos.
 
 | Etapa | Pasta prevista | Conteúdo |
 | --- | --- | --- |
@@ -16,8 +16,6 @@ Os materiais das seis etapas serão vinculados nesta tabela quando os arquivos o
 | 04 · Scrum | `docs/04-scrum/` | Backlog da Sprint 1, dados em CSV e gráfico burndown. |
 | 05 · Projeto | `docs/05-projeto/` | Diagramas de classes, sequência e estados em Mermaid, PNG e SVG. |
 | 06 · Teste | `docs/06-teste/` | Casos de teste em CSV. |
-
-O documento consolidado está previsto em `docs/Exercicio12-FarmaVida.docx`.
 
 ## Gestão de configuração
 
